@@ -3,171 +3,171 @@
     <string name="app_name">Hide My Applist</string>
 
     <string name="title_home">Home</string>
-    <string name="title_logs">Logs</string>
-    <string name="title_settings">Settings</string>
-    <string name="title_template_manage">Template manage</string>
-    <string name="title_template_settings">Template settings</string>
-    <string name="title_app_manage">App manage</string>
-    <string name="title_app_select">Select apps</string>
-    <string name="title_app_settings">App settings</string>
-    <string name="title_about">About</string>
+    <string name="title_logs">Log</string>
+    <string name="title_settings">Konfigurasi</string>
+    <string name="title_template_manage">Kelola templat</string>
+    <string name="title_template_settings">Konfigurasi templat</string>
+    <string name="title_app_manage">Kelola aplikasi</string>
+    <string name="title_app_select">Pilih aplikasi</string>
+    <string name="title_app_settings">Konfigurasi aplikasi</string>
+    <string name="title_about">Tentang</string>
 
-    <string name="do_not_dual">Do not install HMA to secondary user</string>
-    <string name="show_crash_log">Show crash log</string>
-    <string name="config_damaged">Config file damaged. Please clean the app data</string>
-    <string name="edit_list">Edit list</string>
-    <string name="delete">Delete</string>
-    <string name="enabled">Enabled</string>
-    <string name="disabled">Disabled</string>
-    <string name="work_mode">Work mode</string>
-    <string name="blacklist">Blacklist</string>
-    <string name="whitelist">Whitelist</string>
-    <string name="application">Application</string>
-    <string name="preferences">Preferences</string>
-    <string name="refresh">Refresh</string>
-    <string name="filter">Filter</string>
-    <string name="yes">Yes</string>
-    <string name="no">No</string>
-    <string name="search">Search</string>
-    <string name="system">System</string>
+    <string name="do_not_dual">Jangan menginstall Hide My Applist ke pengguna sekunder di perangkat ini</string>
+    <string name="show_crash_log">Tampilkan log crash</string>
+    <string name="config_damaged">File konfigurasi rusak. Tolong bersihkan data aplikasi</string>
+    <string name="edit_list">Ubah daftar</string>
+    <string name="delete">Hapus</string>
+    <string name="enabled">Diaktifkan</string>
+    <string name="disabled">Dimatikan</string>
+    <string name="work_mode">Mode kerja</string>
+    <string name="blacklist">Daftar hitam</string>
+    <string name="whitelist">Daftar putih</string>
+    <string name="application">Aplikasi</string>
+    <string name="preferences">Preferensi</string>
+    <string name="refresh">Segarkan</string>
+    <string name="filter">Saring</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="search">Cari</string>
+    <string name="system">Sistem</string>
 
     <!-- Home -->
-    <string name="home_xposed_activated">Module Activated [%s-%d]</string>
-    <string name="home_xposed_not_activated">Module Not Activated</string>
-    <string name="home_xposed_service_on">System service running [%d]</string>
-    <string name="home_xposed_service_off">System service not running</string>
-    <string name="home_xposed_service_old">Module updated, need reboot</string>
-    <string name="home_xposed_filter_count">Hide My Applist has filtered total %d requests</string>
-    <string name="home_manage">Manage</string>
-    <string name="home_detection_test">Detection test</string>
-    <string name="home_download_test_app_title">Download test app</string>
-    <string name="home_download_test_app_message">We have developed an individual detection test app and migrated detection test to it. Do you want to download it now?</string>
-    <string name="home_backup_and_restore">Backup &amp; Restore</string>
-    <string name="home_backup_config">Backup config</string>
-    <string name="home_restore_config">Restore config</string>
-    <string name="home_import_successful">Import successful</string>
-    <string name="home_import_failed">Import failed</string>
-    <string name="home_import_app_version_too_old">Module version lower than the backup</string>
-    <string name="home_import_backup_version_too_old">Backup version too old</string>
-    <string name="home_import_file_damaged">Backup file was damaged</string>
-    <string name="home_export_failed">Export failed</string>
-    <string name="home_exported">Backed up config</string>
-    <string name="home_new_update">New update available: %s</string>
-    <string name="home_update">Update: %s</string>
+    <string name="home_xposed_activated">Modul Aktif [%s-%d]</string>
+    <string name="home_xposed_not_activated">Module Tidak Aktif</string>
+    <string name="home_xposed_service_on">Layanan sistem berjalan [%d]</string>
+    <string name="home_xposed_service_off">Layanan sistem tidak berjalan</string>
+    <string name="home_xposed_service_old">Module diperbaharui, butuh reboot</string>
+    <string name="home_xposed_filter_count">Hide My Applist telah menyaring total %d permintaan</string>
+    <string name="home_manage">Kelola</string>
+    <string name="home_detection_test">Uji deteksi</string>
+    <string name="home_download_test_app_title">Unduh app pengujian</string>
+    <string name="home_download_test_app_message">Kami telang mengembangkan aplikasi pengujian deteksi terpisah, apakah anda ingin mendownloadnya sekarang?</string>
+    <string name="home_backup_and_restore">Cadangkan &amp; Pulihkan</string>
+    <string name="home_backup_config">Cadangkan konfigurasi</string>
+    <string name="home_restore_config">Pulihkan konfigurasi</string>
+    <string name="home_import_successful">Impor berhasil</string>
+    <string name="home_import_failed">Import gagal</string>
+    <string name="home_import_app_version_too_old">Versi modul saat ini dibawah versi cadangan</string>
+    <string name="home_import_backup_version_too_old">Versi cadangan terlalu tua</string>
+    <string name="home_import_file_damaged">File cadangan mengalami kerusakan</string>
+    <string name="home_export_failed">Ekspor gagal</string>
+    <string name="home_exported">Konfigurasi dicadangkan</string>
+    <string name="home_new_update">Pembaharuan baru tersedia: %s</string>
+    <string name="home_update">Pembaharuan: %s</string>
 
     <!-- App select -->
-    <string name="list_show_system">Show system apps</string>
-    <string name="list_sorting">Sorting</string>
-    <string name="list_reverse_order">Reverse order</string>
-    <string name="list_sort_by_label">By app name</string>
-    <string name="list_sort_by_package_name">By package name</string>
-    <string name="list_sort_by_install_time">By install time</string>
-    <string name="list_sort_by_update_time">By update time</string>
+    <string name="list_show_system">Tampilkan aplikasi sistem</string>
+    <string name="list_sorting">Urutkan</string>
+    <string name="list_reverse_order">Urutkan terbalik</string>
+    <string name="list_sort_by_label">Berdasarkan nama aplikasi</string>
+    <string name="list_sort_by_package_name">Berdasarkan nama paket</string>
+    <string name="list_sort_by_install_time">Berdasarkan waktu instalasi</string>
+    <string name="list_sort_by_update_time">Berdasarkan waktu pembaharuan</string>
 
     <!-- Template manage -->
-    <string name="template_usage_hint">Establish templates for \"restless\" apps, controlling applist they can obtain.\n\nBlacklist (recommended): the apps selected in the template will be invisible to the apps applying the template.\nWhitelist: the apps not selected in the template will be invisible to the apps applying the template.</string>
-    <string name="template_new_blacklist">Create a blacklist template</string>
-    <string name="template_new_whitelist">Create a whitelist template</string>
-    <string name="template_delete">Are you sure to delete the template?</string>
-    <string name="template_name">Template name</string>
-    <string name="template_name_invalid">Name invalid</string>
-    <string name="template_delete_title">Delete Template</string>
-    <string name="template_name_already_exist">Template name already exist</string>
-    <string name="template_applied_count">Applied to %d apps</string>
-    <string name="template_apps_visible_count">%d apps visible</string>
-    <string name="template_apps_invisible_count">%d apps invisible</string>
+    <string name="template_usage_hint">Buat kumpulan templat untuk aplikasi yang \"tidak istirahat\", untuk mengendalikan list aplikasi yang mereka bisa dapatkan.\n\nDaftar hitam (direkomendasikan): aplikasi yang dipilih di templat akan disembunyikan dari aplikasi yang menggunakan templat tersebut.\nDaftar putih: Aplikasi yang tidak dipilih di templat akan disembunyikan dari aplikasi yang menggunakan templat tersebut.</string>
+    <string name="template_new_blacklist">Buat templat daftar hitam</string>
+    <string name="template_new_whitelist">Buat templat daftar putih</string>
+    <string name="template_delete">Apakah anda yakin ingin menghapus templat?</string>
+    <string name="template_name">Nama templat</string>
+    <string name="template_name_invalid">Nama tidak sah</string>
+    <string name="template_delete_title">Hapus templat</string>
+    <string name="template_name_already_exist">Nama templat sudah ada</string>
+    <string name="template_applied_count">Diterapkan ke %d aplikasi</string>
+    <string name="template_apps_visible_count">%d aplikasi terlihat</string>
+    <string name="template_apps_invisible_count">%d aplikasi tersembunyi</string>
 
     <!-- App settings -->
-    <string name="app_enable_hide">Enable hide</string>
-    <string name="app_template_config">Template config</string>
-    <string name="app_choose_template">Choose template</string>
-    <string name="app_exclude_system_apps">Exclude system apps</string>
-    <string name="app_exclude_system_apps_summary">Turn off this option only when really necessary. It is likely to cause crash with it disabled</string>
-    <string name="app_template_using">Using %d templates</string>
-    <string name="app_extra_apps_visible_count">%d additional apps visible</string>
-    <string name="app_extra_apps_invisible_count">%d additional apps invisible</string>
+    <string name="app_enable_hide">Nyalakan penyembunyian</string>
+    <string name="app_template_config">Konfigurasi templat</string>
+    <string name="app_choose_template">Pilih template</string>
+    <string name="app_exclude_system_apps">Kecualikan aplikasi sistem</string>
+    <string name="app_exclude_system_apps_summary">Matikan opsi ini hanya jika dibutuhkan. Crash kemungkinan besar akan terjadi jika dimatikan</string>
+    <string name="app_template_using">Menggunakan %d templat</string>
+    <string name="app_extra_apps_visible_count">%d aplikasi tambahan terlihat</string>
+    <string name="app_extra_apps_invisible_count">%d aplikasi tambahan tersembunyi</string>
 
     <!-- Logs -->
-    <string name="logs_save">Save logs</string>
-    <string name="logs_clear">Clear logs</string>
-    <string name="logs_empty">No logs to save</string>
-    <string name="logs_saved">Logs saved</string>
+    <string name="logs_save">Simpan log</string>
+    <string name="logs_clear">Hapus log</string>
+    <string name="logs_empty">Tidak ada log untuk disimpan</string>
+    <string name="logs_saved">Log tersimpan</string>
 
     <!-- Settings -->
-    <string name="settings_module">Module</string>
-    <string name="settings_data_isolation">Data isolation</string>
-    <string name="settings_data_isolation_summary">App data: %s\nVold app data: %s\nForce mount: %s</string>
-    <string name="settings_data_isolation_unsupported">This option is only available on Android 11 and above</string>
-    <string name="settings_app_data_isolation">App data isolation</string>
-    <string name="settings_vold_app_data_isolation">Vold app data isolation</string>
-    <string name="settings_change_require_root">Changing requires root permission</string>
-    <string name="settings_need_reboot">Changing requires reboot</string>
-    <string name="settings_permission_denied">Permission denied</string>
-    <string name="settings_force_mount_data">Enforce data isolation for all apps</string>
-    <string name="settings_force_mount_data_summary">Data isolation is disabled for apps target API lower than 30 by default</string>
-    <string name="settings_detail_log">Detail log for debugging</string>
-    <string name="settings_max_log_size">Logger buffer sizes</string>
-    <string name="settings_hide_icon">Hide module icon in launcher</string>
-    <string name="settings_hide_icon_summary">You can still open the app in Xposed manager</string>
+    <string name="settings_module">Modul</string>
+    <string name="settings_data_isolation">Isolasi Data</string>
+    <string name="settings_data_isolation_summary">Data aplikasi: %s\nAplikasi data Vold: %s\nPemasangan paksa: %s</string>
+    <string name="settings_data_isolation_unsupported">Opsi ini hanya tersedia pada Android 11 dan yang lebih baru</string>
+    <string name="settings_app_data_isolation">Isolasi data aplikasi</string>
+    <string name="settings_vold_app_data_isolation">Isolasi data aplikasi Vold</string>
+    <string name="settings_change_require_root">Merubah opsi membutuhkan izin root</string>
+    <string name="settings_need_reboot">Merubah opsi membutuhkan perangkat dinyalakan ulang</string>
+    <string name="settings_permission_denied">Izin ditolak</string>
+    <string name="settings_force_mount_data">Terapkan isolasi data untuk semua aplikasi</string>
+    <string name="settings_force_mount_data_summary">Secara bawaan, Isolasi data dimatikan untuk aplikasi yang menargetkan API dibawah 30</string>
+    <string name="settings_detail_log">Log detail untuk debugging</string>
+    <string name="settings_max_log_size">Ukuran buffer log</string>
+    <string name="settings_hide_icon">Sembunyikan ikon modul dari halaman peluncur</string>
+    <string name="settings_hide_icon_summary">Anda masih dapat membuka aplikasi melalui manajer Xposed</string>
 
-    <string name="settings_language">Language</string>
-    <string name="settings_translate">Participate in translation</string>
-    <string name="settings_translate_summary">Help us translate %s into your language</string>
+    <string name="settings_language">Bahasa</string>
+    <string name="settings_translate">Berpartisipasi pada terjemahan</string>
+    <string name="settings_translate_summary">Bantu kami terjemahkan %s ke dalam bahasa anda</string>
 
-    <string name="settings_theme">Theme</string>
-    <string name="settings_system_theme_color">System theme color</string>
-    <string name="settings_theme_color">Theme color</string>
-    <string name="settings_dark_theme">Dark theme</string>
-    <string name="settings_pure_black_dark_theme">Pure black dark theme</string>
-    <string name="settings_pure_black_dark_theme_summary">Use the pure black theme if dark theme is enabled</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_system_theme_color">Tema warna sistem</string>
+    <string name="settings_theme_color">Warna tema</string>
+    <string name="settings_dark_theme">Tema gelap</string>
+    <string name="settings_pure_black_dark_theme">Tema hitam gelap</string>
+    <string name="settings_pure_black_dark_theme_summary">Gunakan tema hitam gelap jika tema gelap dinyalakan</string>
 
-    <string name="settings_service">Service</string>
-    <string name="settings_stop_system_service">Stop system service</string>
-    <string name="settings_stop_system_service_summary">Need reboot to restart service</string>
-    <string name="settings_is_clean_env">Clean runtime environment at the same time?</string>
-    <string name="settings_is_clean_env_summary">Remove system service cache in /data/system/hide_my_applist_*. This means you need to launch the module app once manually after next reboot in order to enable interceptions, and interception counts will also be cleaned.</string>
-    <string name="settings_force_clean_env">Force clean runtime environment (root)</string>
-    <string name="settings_force_clean_env_summary">Only if system service fails to start, otherwise you should click the above option.</string>
-    <string name="settings_force_clean_env_toast_successful">Runtime environment cleaned</string>
+    <string name="settings_service">Layanan</string>
+    <string name="settings_stop_system_service">Hentikan layanan sistem</string>
+    <string name="settings_stop_system_service_summary">Perangkat perlu dinyalakan ulang untuk menyalakan ulang layanan</string>
+    <string name="settings_is_clean_env">Bersihkan lingkungan runtime layanan juga?</string>
+    <string name="settings_is_clean_env_summary">Hapus cache layanan sistem di /data/system/hide_my_applist_*. Ini berarti anda perlu untuk membuka aplikasi modul secara manual pada reboot pertama selanjutnya untuk menyalakan intersepsi permintaan, dan perhitungan total intersepsi permintaan juga akan dibersihkan.</string>
+    <string name="settings_force_clean_env">Paksa bersihkan lingkungan layanan runtime (root)</string>
+    <string name="settings_force_clean_env_summary">Hanya jika layanan sistem gagal dimulai, selain itu anda harusnya klik opsi diatas.</string>
+    <string name="settings_force_clean_env_toast_successful">Lingungan runtime sukses dibersihkan</string>
 
-    <string name="settings_update">Update</string>
-    <string name="settings_disable_update">Disable update notification</string>
-    <string name="settings_receive_beta_update">Receive beta update</string>
-    <string name="settings_receive_beta_update_summary">Beta version may be unstable</string>
+    <string name="settings_update">Perbaharui</string>
+    <string name="settings_disable_update">Matikan notifikasi pembaharuan</string>
+    <string name="settings_receive_beta_update">Terima pembaharuan beta</string>
+    <string name="settings_receive_beta_update_summary">Versi beta mungkin tidak stabil</string>
 
     <!-- About -->
     <string name="about_description">
-        Although It is incorrect to detect specific app installation, yet not every app using root provides random package name support. In this case, detected apps that use root (such as Fake Location and Storage Isolation) is equal to detected root itself.\n\nAt the same time, some smart apps use various loopholes to acquire your app list, so that it can draw a persona for you.\n\nThis module provides some methods to test whether you have already hidden your applist nicely. Also, it can work as an Xposed module to hide some apps or reject app list requests to protect your privacy.
+        Meskipun itu salah untuk mendeteksi root dengan memeriksa instalasi aplikasi spesifik, tidak semua aplikasi yang menggunakan izin root memberikan dukungan nama paket acak. Dalam hal ini, aplikasi yang menggunakan root (contohnya seperti Fake Location dan Storage Isolation) dianggap sebagai tanda adanya root pada perangkat.\n\nPada waktu yang bersamaan, beberapa aplikasi pintar menggunakan berbagai celah untuk mendapatkan list aplikasi yang terinstall, agar dapat digunakan untuk membuat persona untuk anda.\n\nModul ini memberikan beberapa cara untuk menguji apakah anda sudah menyembunyikan list aplikasi anda dengan baik. Dan juga, aplikasi ini dapat bekerja sebagai module Xposed untuk menyembunyikan aplikasi atau menolak permintaan list aplikasi untuk melindungi privasi anda.
     </string>
-    <string name="about_how_to_use_title">How to use this module</string>
+    <string name="about_how_to_use_title">Cara penggunaan modul ini</string>
     <string name="about_how_to_use_description_1">
-        You can create templates in \"Template manage\".\nThen apply the templates to apps in \"App manage\". (You can also select extra apps for targets.)\nYou should and ONLY should check \"System Framework\" in Xposed module scope / whitelist.
+        Anda dapat membuat kumpulan templat di \"Kelola templat\".\nLalu terapkan templat ke aplikasi di \"Kelola aplikasi\". (Anda juga dapat memilih aplikasi ekstra sebagai target.)\nAnda harus dan HANYA cek \"System Framework\" di lingkup modul / daftar putih Xposed.
     </string>
     <string name="about_how_to_use_description_2">
-        Config modification effective in real time.
+        Modifikasi konfigurasi langsung efektif.
     </string>
-    <string name="about_developer">Developer</string>
-    <string name="about_support">Support and feedback</string>
-    <string name="about_open_source">Open source licenses</string>
+    <string name="about_developer">Pengembang</string>
+    <string name="about_support">Bantuan dan masukan</string>
+    <string name="about_open_source">Lisensi sumber terbuka</string>
 
     <!-- Colors -->
     <string name="color_sakura">Sakura</string>
-    <string name="color_red">Red</string>
-    <string name="color_pink">Pink</string>
-    <string name="color_purple">Purple</string>
-    <string name="color_deep_purple">Deep purple</string>
-    <string name="color_indigo">Indigo</string>
-    <string name="color_blue">Blue</string>
-    <string name="color_light_blue">Light blue</string>
-    <string name="color_cyan">Cyan</string>
-    <string name="color_teal">Teal</string>
-    <string name="color_green">Green</string>
-    <string name="color_light_green">Light green</string>
-    <string name="color_lime">Lime</string>
-    <string name="color_yellow">Yellow</string>
-    <string name="color_amber">Amber</string>
-    <string name="color_orange">Orange</string>
-    <string name="color_deep_orange">Deep orange</string>
-    <string name="color_brown">Brown</string>
-    <string name="color_blue_grey">Blue grey</string>
+    <string name="color_red">Merah</string>
+    <string name="color_pink">Merah muda</string>
+    <string name="color_purple">Ungu</string>
+    <string name="color_deep_purple">Ungu tua</string>
+    <string name="color_indigo">Nila</string>
+    <string name="color_blue">Biru</string>
+    <string name="color_light_blue">Biru muda</string>
+    <string name="color_cyan">Sian</string>
+    <string name="color_teal">Biru hijau</string>
+    <string name="color_green">Hijau</string>
+    <string name="color_light_green">Hijau muda</string>
+    <string name="color_lime">Lemon</string>
+    <string name="color_yellow">Kuning</string>
+    <string name="color_amber">Kuning oranye</string>
+    <string name="color_orange">Oranye</string>
+    <string name="color_deep_orange">Oranye tua</string>
+    <string name="color_brown">Coklat</string>
+    <string name="color_blue_grey">Biru abu</string>
 </resources>
